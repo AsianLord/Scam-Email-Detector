@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 20px 0 20px 0;
+}
+
+#accuracy-box {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 15px 0;
+    font-size: 20px;
+}
+
+.button {
+    width: 8rem;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
